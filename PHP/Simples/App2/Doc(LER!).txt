@@ -1,0 +1,4 @@
+Para acessar corretamente, use a seguinte url:
+http://localhost/app2/index.php?class=Home
+
+necessário ter o XAMPP instalado e esse projeto estar no HTDOCS do XAMPP

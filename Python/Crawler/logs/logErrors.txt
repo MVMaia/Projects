@@ -1,0 +1,48 @@
+ Erro na classe no mï¿½todo collect_title da classe Extractor:
+ Erro ao acessar a url https://www.scania.com/br/pt/home.htm: 
+ 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home.htm
+ 
+ Erro na classe no método collect_title da classe Extractor:
+ Erro ao acessar a url https://www.scania.com/br/pt/home.htm: 
+ 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home.htm
+ 
+ Erro na classe no metodo collect_title da classe Extractor:
+ Erro ao acessar a url https://www.scania.com/br/pt/home.htm: 
+ 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home.htm
+ 
+ Erro na classe no metodo collect_title da classe Extractor:
+ Erro ao acessar a url where python: 
+ Invalid URL 'where python': No scheme supplied. Perhaps you meant https://where python?
+ 
+ Erro no metodo sql_queries da classe Database:
+ Not all parameters were used in the SQL statement
+ 
+ Erro no metodo connect_to da classe Database:
+ 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+ 
+ Erro no metodo connect_to da classe Database:
+ 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+ 
+ Erro no metodo sql_queries da classe Database:
+ Not all parameters were used in the SQL statement
+ 
+ Erro no metodo sql_queries da classe Database:
+ Not all parameters were used in the SQL statement
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.tabela' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`titles`, CONSTRAINT `titles_ibfk_1` FOREIGN KEY (`url_id`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1054 (42S22): Unknown column 'id' in 'where clause'
+ 
+ Erro no metodo sql_queries da classe Database:
+ Not all parameters were used in the SQL statement
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.titulos' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1054 (42S22): Unknown column 'id' in 'where clause'

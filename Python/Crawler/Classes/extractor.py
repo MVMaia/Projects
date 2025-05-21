@@ -27,38 +27,38 @@ class Extractor:
         
         
     def collect_links(self, url, typeLink):
+        msg = ""
         try:
             externalLinks = []
             internalLinks = []
             actualDomain = urlparse(url).netloc
+
             response = requests.get(url)
             response.raise_for_status()
+        
+            soup = BeautifulSoup(response.text, 'lxml')
+            linksTags = soup.find_all('a', href=True)
 
-            if response.status_code == 200:
-                soup = BeautifulSoup(response.text, 'lxml')
-                linksTags = soup.find_all('a', href=True)
+            for link in linksTags:
+                href = link['href']
+                fullUrl = urljoin(url, href)
+                linkDomain = urlparse(fullUrl).netloc
 
-                for link in linksTags:
-                    href = link['href']
-                    fullUrl = urljoin(url, href)
-                    linkDomain = urlparse(fullUrl).netloc
-
-                    if(fullUrl.startswith('http') and linkDomain != actualDomain):
-                        externalLinks.append(fullUrl)
-                    elif(fullUrl.startswith('http') and linkDomain == actualDomain):
-                        internalLinks.append(fullUrl)
+                if(fullUrl.startswith('http') and linkDomain != actualDomain):
+                    externalLinks.append(fullUrl)
+                elif(fullUrl.startswith('http') and linkDomain == actualDomain):
+                    internalLinks.append(fullUrl)
                 
-                if typeLink.lower() == 'external':
-                    externalLinks = list(set(externalLinks))
-                    return externalLinks
-                elif typeLink.lower() == 'internal':
-                    internalLinks = list(set(internalLinks))
-                    return internalLinks
-                else:
-                    print("Tipo inválido")
-                    return []
+            if typeLink.lower() == 'external':
+                externalLinks = list(set(externalLinks))
+                return externalLinks
+            elif typeLink.lower() == 'internal':
+                internalLinks = list(set(internalLinks))
+                return internalLinks
             else:
-                print(f"Erro de requisição: {response.status_code}")
+                print("Tipo inválido")
+                return []
+            
         except requests.HTTPError as e:
             msg = f"Erro HTTP ao acessar {url}: {e}"
         except requests.Timeout as e:

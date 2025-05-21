@@ -10,24 +10,43 @@ class Crawler:
         self.db = Database('localhost', 'root', '' , 'crawlerpy')
         self.ext = Extractor()
         self.writer = TxtWriter()
+        self.type = 'internal'
 
-    def process(self, url):
+    def testProcess(self, urls):
+        nextUrls = []
+        nextUrls.append(urls)
         try:
-            dateToday = date.today()
-            urlTitle = self.ext.collect_title(url)
-            urlMetaDesc = self.ext.collect_metaDescription(url)
-            urlH1 = self.ext.collect_h1(url)
-            urlRobots = self.ext.collect_robots(url)
-            urlHrefs = self.ext.collect_links(url, 'external')
-            print(urlTitle, urlMetaDesc, urlH1, urlRobots,urlHrefs ,dateToday, sep='\n')
-            #self.db.sql_queries("insert", "INSERT INTO titles(title, url, date) VALUES(%s,%s,%s)", [urlTitle, url,dateToday])
-            
+            while True:
+                collectedUrls = []
+                for url in nextUrls:
+                    extractedData = self.extractData(url)
+                    collectedUrls.extend(self.extractUrls(url, self.type))
+                    print(extractedData)
+
+                if not collectedUrls:
+                    break
+                else:
+                    nextUrls = []
+                    nextUrls.extend(collectedUrls)
         except Exception as e:
             print(f"Erro no metodo process da classe Crawler, ocorreu o seguinte erro: \n {e}")
             self.writer.write_logs("Crawler", "process", e)
             return f"Erro ao coletar titulo"
         
-    def process_urls(self, url, typeSearch):
+    def extractData(self, url):
+        try:
+            urlTitle = self.ext.collect_title(url)
+            urlMetaDesc = self.ext.collect_metaDescription(url)
+            urlH1 = self.ext.collect_h1(url)
+            urlRobots = self.ext.collect_robots(url)
+            return [urlTitle, urlH1, urlMetaDesc, urlRobots]       
+        except Exception as e:
+            print(f"Erro no metodo process da classe Crawler, ocorreu o seguinte erro: \n {e}")
+            self.writer.write_logs("Crawler", "process", e)
+            return f"Erro ao coletar titulo"
+
+        
+    def extractUrls(self, url, typeSearch):
         collectedUrls = []
         try:
             if typeSearch.lower() == 'internal':
@@ -41,3 +60,22 @@ class Crawler:
         except Exception as e:
             self.writer.write_logs('crawler', 'process_urls', e)
             return []
+        
+    def saveData(self, data):
+        pass
+        
+
+    # def process(self, url):
+    #     try:
+    #         dateToday = date.today()
+    #         urlTitle = self.ext.collect_title(url)
+    #         urlMetaDesc = self.ext.collect_metaDescription(url)
+    #         urlH1 = self.ext.collect_h1(url)
+    #         urlRobots = self.ext.collect_robots(url)
+    #         urlHrefs = self.ext.collect_links(url, 'external')
+    #         print(urlTitle, urlMetaDesc, urlH1, urlRobots,urlHrefs ,dateToday, sep='\n')
+    #         #self.db.sql_queries("insert", "INSERT INTO titles(title, url, date) VALUES(%s,%s,%s)", [urlTitle, url,dateToday])        
+    #     except Exception as e:
+    #         print(f"Erro no metodo process da classe Crawler, ocorreu o seguinte erro: \n {e}")
+    #         self.writer.write_logs("Crawler", "process", e)
+    #         return f"Erro ao coletar titulo"

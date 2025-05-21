@@ -1,5 +1,6 @@
 from Classes.extractor import Extractor
 from Classes.db_manager import Database
+from Classes.text_writter import TxtWriter
 from datetime import date
 
 
@@ -8,6 +9,7 @@ class Crawler:
     def __init__(self):
         self.db = Database('localhost', 'root', '' , 'crawlerpy')
         self.ext = Extractor()
+        self.writer = TxtWriter()
 
     def process(self, url):
         try:

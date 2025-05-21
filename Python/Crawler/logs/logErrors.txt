@@ -46,3 +46,12 @@
  
  Erro no metodo sql_queries da classe Database:
  1054 (42S22): Unknown column 'id' in 'where clause'
+ 
+ Erro no metodo collect_keywords da classe extractor:
+ 403 Client Error: Forbidden for url: https://www.kabum.com.br/?utm_id=72385815&gad_source=1&gad_campaignid=72385815&gbraid=0AAAAADx-HyGE9vymlW8FVmrxQ6V1Il6nz&gclid=Cj0KCQjw0LDBBhCnARIsAMpYlApnxBxVI-nETdu-5UN9jKa0kYZNHqg6N5yN81fKpXLYANZhpTvew3UaAkH1EALw_wcB
+ 
+ Erro no metodo collect_robots da classe extractor:
+ 403 Client Error: Forbidden for url: https://www.kabum.com.br/
+ 
+ Erro no metodo collect_robots da classe extractor:
+ 403 Client Error: Forbidden for url: https://www.kabum.com.br/

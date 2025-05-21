@@ -26,7 +26,7 @@ class Extractor:
             return f"Erro ao coletar titulo"
         
         
-    def collect_links(self, url, type):
+    def collect_links(self, url, typeLink):
         try:
             externalLinks = []
             internalLinks = []
@@ -48,10 +48,10 @@ class Extractor:
                     elif(fullUrl.startswith('http') and linkDomain == actualDomain):
                         internalLinks.append(fullUrl)
                 
-                if type.lower() == 'external':
+                if typeLink.lower() == 'external':
                     externalLinks = list(set(externalLinks))
                     return externalLinks
-                elif type.lower() == 'internal':
+                elif typeLink.lower() == 'internal':
                     internalLinks = list(set(internalLinks))
                     return internalLinks
                 else:
@@ -70,4 +70,59 @@ class Extractor:
 
         self.writer.write_logs("Extractor", "collect_links", msg)
         return []
+    
+    def collect_metaDescription(self, url):
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'lxml')
+                metaTags = soup.find_all('meta', attrs={'name':'description'})
 
+                if metaTags:
+                    tags = []
+                    for meta in metaTags:
+                        if meta.get('content'):
+                            tags.append(meta['content'].strip())    
+                    return tags   
+                else:
+                    return ['Essa página não possui <meta name="description">']           
+        except requests.exceptions.HTTPError as e:
+            print(f"Erro na classe collect_metaDescription: {e}")
+            self.writer.write_logs('extractor', 'collect_metaData', e)
+            return ['Erro ao coletar metaDescription']  
+        
+
+    def collect_h1(self, url):
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
+
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'lxml')
+                h1 = soup.find('h1')
+                if h1:
+                    return h1.text
+                else:
+                    return "não há <h1> nessa página!"
+        except requests.exceptions.HTTPError as e:
+            print(f"Erro no método collect_h1 da classe extractor: {e}")
+            self.writer.write_logs('extractor', 'collect_h1', e)
+            return ["erro ao coletar o h1"]
+        
+    def collect_robots(self, url):
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
+
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, 'lxml')
+                robots = soup.find('mega', attrs={'name':'robots'})
+                if robots:
+                    return robots.text
+                else:
+                    return "Não há robots nessa página!"
+        except Exception as e:
+            print(f"erro na classe extractor, metodo robots: {e}")
+            self.writer.write_logs('extractor', 'collect_robots', e)
+            return ["Erro ao coletar robots"]

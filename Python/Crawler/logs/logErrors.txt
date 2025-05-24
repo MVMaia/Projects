@@ -1575,3 +1575,239 @@
  
  Erro no metodo collect_links da classe Extractor:
  Erro de requisição ao acessar l: Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url https://www.scania.com/content/www/br/pt/home/products/power-solutions/next-generation-inline-engine-range: 
+ 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home/products/power-solutions/next-generation-inline-engine-range.html
+ 
+ Erro no metodo collect_metaData da classe extractor:
+ 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home/products/power-solutions/next-generation-inline-engine-range.html
+ 
+ Erro no metodo collect_h1 da classe extractor:
+ 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home/products/power-solutions/next-generation-inline-engine-range.html
+ 
+ Erro no metodo collect_robots da classe extractor:
+ 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home/products/power-solutions/next-generation-inline-engine-range.html
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro HTTP ao acessar https://www.scania.com/content/www/br/pt/home/products/power-solutions/next-generation-inline-engine-range: 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home/products/power-solutions/next-generation-inline-engine-range.html
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url books.toscrape.com: 
+ Invalid URL 'books.toscrape.com': No scheme supplied. Perhaps you meant https://books.toscrape.com?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'books.toscrape.com': No scheme supplied. Perhaps you meant https://books.toscrape.com?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar books.toscrape.com: Invalid URL 'books.toscrape.com': No scheme supplied. Perhaps you meant https://books.toscrape.com?
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1054 (42S22): Unknown column 'data' in 'field list'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1054 (42S22): Unknown column 'data' in 'field list'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1054 (42S22): Unknown column 'data' in 'field list'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1054 (42S22): Unknown column 'data' in 'field list'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1062 (23000): Duplicate entry 'https://books.toscrape.com/' for key 'url'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`titles`, CONSTRAINT `titles_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1062 (23000): Duplicate entry 'https://books.toscrape.com/catalogue/libertarianism-for-begin...' for key 'url'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`titles`, CONSTRAINT `titles_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1062 (23000): Duplicate entry 'https://books.toscrape.com/' for key 'url'
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range

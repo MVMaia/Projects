@@ -54,9 +54,9 @@ class Database:
             print("Alterações desfeitas!")
         except mysql.connector.Error as e:
             print(f"Erro: {e}")
+
     def sql_queries(self, queryType, query, params=None):        
         try:
-            self.connect_to()
             if not self.connection or not self.connection.is_connected():
                 print("Conexão não estabelecida.")
                 return None
@@ -64,7 +64,6 @@ class Database:
             if queryType.upper() == "INSERT" or queryType.upper() == "UPDATE" or queryType.upper() == "DELETE":
                 if self.connection.is_connected():
                     self.cursor.execute(query, params)
-                    self.commitChanges()
                     print("Alteração concluída!")
                     return True
                 else:
@@ -74,6 +73,14 @@ class Database:
                 self.cursor.execute(query, params)
                 results = self.cursor.fetchall()
                 return results  
+            elif queryType.upper() == 'INSERTURL':
+                if self.connection.is_connected():
+                    self.cursor.execute(query,params)
+                    thisId = self.cursor.lastrowid
+                    return thisId
+                else:
+                    print("Erro: conexão não estabelecida para INSERTURL")
+                    return None
             else:
                 print("Tipo de query inválida!")
                 return None         
@@ -81,6 +88,4 @@ class Database:
             print(f"Erro no método sql_queries da classe Database: \n {e}")
             self.writer.write_logs("Database", "sql_queries", e)
             self.rollbacks()
-            return False     
-        finally:
-            self.close_connection()       
+            return False 

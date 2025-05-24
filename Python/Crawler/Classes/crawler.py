@@ -10,20 +10,35 @@ class Crawler:
         self.db = Database('localhost', 'root', '' , 'crawlerpy')
         self.ext = Extractor()
         self.writer = TxtWriter()
+        self.visitedUrls = set()
         self.type = 'internal'
 
     def testProcess(self, urls):
         nextUrls = []
-        nextUrls.append(urls)
+
+        if isinstance(urls, list):
+            nextUrls.extend(urls)
+        else:
+            nextUrls.append(urls)
+
         try:
             while True:
                 collectedUrls = []
                 for url in nextUrls:
+                    if url in self.visitedUrls:
+                        continue
+
                     extractedData = self.extractData(url)
-                    collectedUrls.extend(self.extractUrls(url, self.type))
                     print(extractedData)
+                    self.saveData(url, extractedData)
+                    collectedUrls.extend(self.extractUrls(url, self.type))
+                    self.visitedUrls.add(url)
 
                 if not collectedUrls:
+                    print("Não houve URLs de retorno")
+                    break
+                elif set(collectedUrls).issubset(self.visitedUrls):
+                    print("Todos as URLs retornadas já foram visitadas")
                     break
                 else:
                     nextUrls = []
@@ -61,21 +76,27 @@ class Crawler:
             self.writer.write_logs('crawler', 'process_urls', e)
             return []
         
-    def saveData(self, data):
-        pass
-        
+    def saveData(self, url, data):
+        date1 = date.today()
+        try:
+            self.db.connect_to()
+            verify = self.db.sql_queries('INSERTURL', 'INSERT INTO urls(url, date) VALUES(%s, %s)', [url, date1])
+            self.db.commitChanges()
 
-    # def process(self, url):
-    #     try:
-    #         dateToday = date.today()
-    #         urlTitle = self.ext.collect_title(url)
-    #         urlMetaDesc = self.ext.collect_metaDescription(url)
-    #         urlH1 = self.ext.collect_h1(url)
-    #         urlRobots = self.ext.collect_robots(url)
-    #         urlHrefs = self.ext.collect_links(url, 'external')
-    #         print(urlTitle, urlMetaDesc, urlH1, urlRobots,urlHrefs ,dateToday, sep='\n')
-    #         #self.db.sql_queries("insert", "INSERT INTO titles(title, url, date) VALUES(%s,%s,%s)", [urlTitle, url,dateToday])        
-    #     except Exception as e:
-    #         print(f"Erro no metodo process da classe Crawler, ocorreu o seguinte erro: \n {e}")
-    #         self.writer.write_logs("Crawler", "process", e)
-    #         return f"Erro ao coletar titulo"
+            if not data[2]: 
+                data[2] = ["Não há description nessa página"]
+            elif data[2][0] == '': 
+                data[2][0] = "Não há description nessa página"
+
+            if isinstance(verify, int):
+                self.db.sql_queries('INSERT', 'INSERT INTO titles(title, id_url) VALUES(%s, %s)', [data[0], verify])
+                self.db.sql_queries('INSERT', 'INSERT INTO h_one_tag(tag_text, id_url) VALUES(%s, %s)', [data[1], verify])
+                self.db.sql_queries('INSERT', 'INSERT INTO meta_desc(description, id_url) VALUES(%s, %s)', [data[2][0], verify])
+                self.db.sql_queries('INSERT', 'INSERT INTO robots(robots_text, id_url) VALUES(%s, %s)', [data[3], verify])
+                self.db.commitChanges()
+        except Exception as e:
+            print(f"Erro no saveData class Crawler :{e}")
+            self.writer.write_logs('Crawler', 'saveData', e)
+        finally:
+            self.db.close_connection()
+

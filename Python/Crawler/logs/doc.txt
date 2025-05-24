@@ -1,0 +1,12 @@
+Pra quando voce voltar...
+
+O crawler já recolhe title, url, h1, robots e metaDescription
+Ele também tem uma classe que executa CRUD.
+Também tem lógica no método process que evita que ele visite a mesma url que já visitou, isso basicamente permite que ele
+recolha todas as páginas de um site.
+Ele também consegue navegar nas páginas de um site, ou ir externamente, por hora, o interno tá mais simples de controlar e entender
+Os próximos passos é salvar os dados coletados no banco de dados, mas mais importante que isso é que os dados devem ser separados
+por tabelas, ou seja, uma tabela pra url, uma pra metaDescription, etc. E elas devem estar ligadas por chaves extrangeiras.(Concluído)
+
+Não se esqueça, queremos um front desacoplado, seria legal se fizessemos em Kotlin, mas react também seria interessante
+no porfólio, entretanto, se optar por 100% py, use flet.

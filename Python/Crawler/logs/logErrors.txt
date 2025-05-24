@@ -46,3 +46,1768 @@
  
  Erro no metodo sql_queries da classe Database:
  1054 (42S22): Unknown column 'id' in 'where clause'
+ 
+ Erro no metodo collect_keywords da classe extractor:
+ 403 Client Error: Forbidden for url: https://www.kabum.com.br/?utm_id=72385815&gad_source=1&gad_campaignid=72385815&gbraid=0AAAAADx-HyGE9vymlW8FVmrxQ6V1Il6nz&gclid=Cj0KCQjw0LDBBhCnARIsAMpYlApnxBxVI-nETdu-5UN9jKa0kYZNHqg6N5yN81fKpXLYANZhpTvew3UaAkH1EALw_wcB
+ 
+ Erro no metodo collect_robots da classe extractor:
+ 403 Client Error: Forbidden for url: https://www.kabum.com.br/
+ 
+ Erro no metodo collect_robots da classe extractor:
+ 403 Client Error: Forbidden for url: https://www.kabum.com.br/
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url p: 
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar p: Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url s: 
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar s: Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url :: 
+ No connection adapters were found for ':'
+ 
+ Erro no metodo process da classe Crawler:
+ No connection adapters were found for ':'
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar :: No connection adapters were found for ':'
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url s: 
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar s: Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url c: 
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar c: Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url a: 
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar a: Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url n: 
+ Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar n: Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url i: 
+ Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar i: Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url a: 
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar a: Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url c: 
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar c: Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url o: 
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar o: Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url b: 
+ Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar b: Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url r: 
+ Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar r: Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url p: 
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar p: Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url o: 
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar o: Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url e: 
+ Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar e: Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url l: 
+ Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar l: Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url p: 
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar p: Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url s: 
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar s: Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url :: 
+ No connection adapters were found for ':'
+ 
+ Erro no metodo process da classe Crawler:
+ No connection adapters were found for ':'
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar :: No connection adapters were found for ':'
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url s: 
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar s: Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url c: 
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar c: Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url a: 
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar a: Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url n: 
+ Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar n: Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url i: 
+ Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar i: Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url a: 
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar a: Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url c: 
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar c: Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url o: 
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar o: Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url b: 
+ Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar b: Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url r: 
+ Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar r: Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url p: 
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar p: Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url o: 
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar o: Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url e: 
+ Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar e: Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url l: 
+ Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar l: Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url p: 
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar p: Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url s: 
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar s: Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url :: 
+ No connection adapters were found for ':'
+ 
+ Erro no metodo process da classe Crawler:
+ No connection adapters were found for ':'
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar :: No connection adapters were found for ':'
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url s: 
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar s: Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url c: 
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar c: Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url a: 
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar a: Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url n: 
+ Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar n: Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url i: 
+ Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar i: Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url a: 
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar a: Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url c: 
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar c: Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url o: 
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar o: Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url b: 
+ Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar b: Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url r: 
+ Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar r: Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url p: 
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar p: Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url o: 
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar o: Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url e: 
+ Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar e: Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url l: 
+ Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar l: Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url p: 
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar p: Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url s: 
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar s: Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url :: 
+ No connection adapters were found for ':'
+ 
+ Erro no metodo process da classe Crawler:
+ No connection adapters were found for ':'
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar :: No connection adapters were found for ':'
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url w: 
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar w: Invalid URL 'w': No scheme supplied. Perhaps you meant https://w?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url s: 
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar s: Invalid URL 's': No scheme supplied. Perhaps you meant https://s?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url c: 
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar c: Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url a: 
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar a: Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url n: 
+ Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar n: Invalid URL 'n': No scheme supplied. Perhaps you meant https://n?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url i: 
+ Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar i: Invalid URL 'i': No scheme supplied. Perhaps you meant https://i?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url a: 
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar a: Invalid URL 'a': No scheme supplied. Perhaps you meant https://a?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url c: 
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar c: Invalid URL 'c': No scheme supplied. Perhaps you meant https://c?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url o: 
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar o: Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url b: 
+ Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar b: Invalid URL 'b': No scheme supplied. Perhaps you meant https://b?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url r: 
+ Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar r: Invalid URL 'r': No scheme supplied. Perhaps you meant https://r?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url p: 
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar p: Invalid URL 'p': No scheme supplied. Perhaps you meant https://p?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url /: 
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar /: Invalid URL '/': No scheme supplied. Perhaps you meant https:///?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url o: 
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar o: Invalid URL 'o': No scheme supplied. Perhaps you meant https://o?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url e: 
+ Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar e: Invalid URL 'e': No scheme supplied. Perhaps you meant https://e?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url .: 
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar .: Invalid URL '.': No scheme supplied. Perhaps you meant https://.?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url h: 
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar h: Invalid URL 'h': No scheme supplied. Perhaps you meant https://h?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url t: 
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar t: Invalid URL 't': No scheme supplied. Perhaps you meant https://t?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url m: 
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar m: Invalid URL 'm': No scheme supplied. Perhaps you meant https://m?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url l: 
+ Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar l: Invalid URL 'l': No scheme supplied. Perhaps you meant https://l?
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url https://www.scania.com/content/www/br/pt/home/products/power-solutions/next-generation-inline-engine-range: 
+ 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home/products/power-solutions/next-generation-inline-engine-range.html
+ 
+ Erro no metodo collect_metaData da classe extractor:
+ 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home/products/power-solutions/next-generation-inline-engine-range.html
+ 
+ Erro no metodo collect_h1 da classe extractor:
+ 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home/products/power-solutions/next-generation-inline-engine-range.html
+ 
+ Erro no metodo collect_robots da classe extractor:
+ 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home/products/power-solutions/next-generation-inline-engine-range.html
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro HTTP ao acessar https://www.scania.com/content/www/br/pt/home/products/power-solutions/next-generation-inline-engine-range: 404 Client Error: Not Found for url: https://www.scania.com/br/pt/home/products/power-solutions/next-generation-inline-engine-range.html
+ 
+ Erro no metodo collect_title da classe Extractor:
+ Erro ao acessar a url books.toscrape.com: 
+ Invalid URL 'books.toscrape.com': No scheme supplied. Perhaps you meant https://books.toscrape.com?
+ 
+ Erro no metodo process da classe Crawler:
+ Invalid URL 'books.toscrape.com': No scheme supplied. Perhaps you meant https://books.toscrape.com?
+ 
+ Erro no metodo collect_links da classe Extractor:
+ Erro de requisição ao acessar books.toscrape.com: Invalid URL 'books.toscrape.com': No scheme supplied. Perhaps you meant https://books.toscrape.com?
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1054 (42S22): Unknown column 'data' in 'field list'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1054 (42S22): Unknown column 'data' in 'field list'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1054 (42S22): Unknown column 'data' in 'field list'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1054 (42S22): Unknown column 'data' in 'field list'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1146 (42S02): Table 'crawlerpy.title' doesn't exist
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1062 (23000): Duplicate entry 'https://books.toscrape.com/' for key 'url'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`titles`, CONSTRAINT `titles_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1062 (23000): Duplicate entry 'https://books.toscrape.com/catalogue/libertarianism-for-begin...' for key 'url'
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`titles`, CONSTRAINT `titles_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`crawlerpy`.`h_one_tag`, CONSTRAINT `h_one_tag_ibfk_1` FOREIGN KEY (`id_url`) REFERENCES `urls` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ Python type list cannot be converted
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range
+ 
+ Erro no metodo sql_queries da classe Database:
+ 1062 (23000): Duplicate entry 'https://books.toscrape.com/' for key 'url'
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ string index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range
+ 
+ Erro no metodo saveData da classe Crawler:
+ list index out of range

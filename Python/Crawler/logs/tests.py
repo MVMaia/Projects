@@ -1,6 +1,5 @@
-# from Classes.db_manager import Database
+# from Classes.extractor import Extractor
 
-# db = Database('localhost', 'root', '' , 'crawlerpy')
-
-# query = "DELETE FROM titles WHERE id_title = %s"
-# db.sql_queries("delete", query, ["1"])
+# Ext = Extractor()
+# url = input("Digite uma url\n")
+# print(Ext.collect_robots(url))
